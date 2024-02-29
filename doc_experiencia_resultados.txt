@@ -1,0 +1,19 @@
+Artefato de Software - Experiência e Resultados: Um relato sobre meu progresso, um ano depois
+
+Essa atividade foi realizada quando eu estava começando meu 3° semestre da faculdade. Eu tinha passado 
+por Fundamentos de Programação e Programação. Neste pequeno projeto, foi utilizado apenas o terminal, sem 
+experiência de interface gráfica. Também, foi vetada a utilização de arquivos, logo as informações seriam 
+armazenadas até o código terminar. Ademais, não havia conhecimento de bancos de dados (seria vetado de qualquer
+jeito). Assim, a cada vez que o código rodava, tudo estava zerado. 
+
+Foi possível ganhar grande experiência com o desenvolvimento dessa prova, apesar de já ter feito um trabalho final, 
+mais completo e com mais tempo. O prazo para essa atividade foi de 4h, de 8h às 12h. 
+Com isso, o deadline mais curto e os meses parados nas férias foram mais desafiadores na realização do projeto e no 
+processo de codificação.
+
+Agora, um ano depois, pôde-se ver a minha evolução como programador e futuro cientista da computação. Novas técnicas 
+e menos erros, assim como novas experiências na área e maior capacidade de desenvolvimento dão uma visão mais ampla do 
+que é imprescindível nos meus futuros campos de atuação e facilitam a obtenção de novos conhecimentos. 
+
+
+29/02/2024
